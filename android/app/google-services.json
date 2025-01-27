@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148359318919",
+    "project_id": "localvueapp",
+    "storage_bucket": "localvueapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148359318919:android:eeee8ef46c00b632665722",
+        "android_client_info": {
+          "package_name": "com.example.localvue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-rB85asT6dA90Yl6fPWKVV4MsZr7kFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
